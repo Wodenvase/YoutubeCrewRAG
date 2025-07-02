@@ -64,18 +64,13 @@ agentfleet-rag-lab/
 
 ⚙️ Setup & Installation
 
-1️⃣ Clone the repo
-
-git clone https://github.com/yourusername/agentfleet-rag-lab.git
-cd agentfleet-rag-lab/2_youtube_and_web
-
-2️⃣ Install dependencies
+1️⃣Install dependencies
 
 Make sure you have Poetry installed.
 
 poetry install --no-root
 
-3️⃣ Create .env file
+2️⃣ Create .env file
 
 In 2_youtube_and_web/, create a .env file with your API keys:
 
